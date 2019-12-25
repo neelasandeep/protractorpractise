@@ -1,0 +1,19 @@
+{
+  "name": "demoproject",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "jasmine": "3.5.0",
+    "protractor": "^5.4.2",
+    "protractor-html-reporter-2": "^1.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sandeep",
+  "license": "ISC"
+}
