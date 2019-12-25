@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuites disabled="0" errors="0" failures="0" tests="4" time="11.67">
- <testsuite name="multiple scenarios" timestamp="2019-12-25T20:13:00" hostname="localhost" time="11.67" errors="0" tests="4" skipped="0" disabled="0" failures="0">
-  <testcase classname="multiple scenarios" name="get tiltle" time="2.629" />
-  <testcase classname="multiple scenarios" name="add 1+2" time="2.474" />
-  <testcase classname="multiple scenarios" name="add 6+4" time="3.299" />
-  <testcase classname="multiple scenarios" name="add 6+4 read input" time="3.257" />
+<testsuites disabled="0" errors="0" failures="0" tests="4" time="10.717">
+ <testsuite name="multiple scenarios" timestamp="2019-12-25T21:11:49" hostname="localhost" time="10.717" errors="0" tests="4" skipped="0" disabled="0" failures="0">
+  <testcase classname="multiple scenarios" name="get tiltle" time="1.745" />
+  <testcase classname="multiple scenarios" name="add 1+2" time="2.41" />
+  <testcase classname="multiple scenarios" name="add 6+4" time="3.289" />
+  <testcase classname="multiple scenarios" name="add 6+4 read input" time="3.261" />
  </testsuite>
 </testsuites>
