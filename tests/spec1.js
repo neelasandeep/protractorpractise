@@ -11,7 +11,7 @@ describe('multiple scenarios',function(){
           homepage.getTitle('Super Calculator');
       });
       it('add 1+2',function(){
-          homepage.enterFirstNumber('3');
+          homepage.enterFirstNumber('1');
         homepage.enterSecondNumber('2');
         homepage.clickGo();
         homepage.verify('3');
